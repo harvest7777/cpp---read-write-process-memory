@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\getprocessid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|solutionrelative:getprocessid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\getprocessid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|solutionrelative:getprocessid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|solutionrelative:includes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\ac_cheat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A61283D2-A03B-41F7-BFE0-34BE260B6135}|ac_cheat.vcxproj|solutionrelative:ac_cheat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "getprocessid.cpp",
+              "DocumentMoniker": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\getprocessid.cpp",
+              "RelativeDocumentMoniker": "getprocessid.cpp",
+              "ToolTip": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\getprocessid.cpp",
+              "RelativeToolTip": "getprocessid.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T05:33:42.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getprocessid.h",
+              "DocumentMoniker": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\getprocessid.h",
+              "RelativeDocumentMoniker": "getprocessid.h",
+              "ToolTip": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\getprocessid.h",
+              "RelativeToolTip": "getprocessid.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-19T05:33:12.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "includes.h",
+              "DocumentMoniker": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\includes.h",
+              "RelativeDocumentMoniker": "includes.h",
+              "ToolTip": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\includes.h",
+              "RelativeToolTip": "includes.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-19T05:29:58.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ac_cheat.cpp",
+              "DocumentMoniker": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\ac_cheat.cpp",
+              "RelativeDocumentMoniker": "ac_cheat.cpp",
+              "ToolTip": "C:\\Users\\Ryan\\Desktop\\re\\ac_cheat\\ac_cheat.cpp",
+              "RelativeToolTip": "ac_cheat.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T05:28:00.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
