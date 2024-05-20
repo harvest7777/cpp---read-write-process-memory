@@ -33,5 +33,28 @@ DWORD GetProcessID(const wchar_t* processName)
 		} while (Process32Next(hSnapshot, &processEntry));
 
 	}
+	CloseHandle(hSnapshot);
 	return processID;
+}
+
+DWORD GetProcessBaseAddress(DWORD processID) 
+{
+	DWORD processBaseAddress{ 0 };
+	HANDLE hSnapshot{ CreateToolhelp32Snapshot(TH32CS_SNAPMODULE | TH32CS_SNAPMODULE32, processID) };
+	if (hSnapshot == INVALID_HANDLE_VALUE)
+	{
+		std::cout << "Failed to get handle";
+		return processBaseAddress;
+	}
+	MODULEENTRY32 modEntry;
+	modEntry.dwSize = sizeof(MODULEENTRY32);
+
+	if (Module32First(hSnapshot, &modEntry))
+	{
+		processBaseAddress = (DWORD)modEntry.modBaseAddr;
+	}
+
+	CloseHandle(hSnapshot);
+	return processBaseAddress;
+
 }
