@@ -5,3 +5,4 @@
 #include <thread>
 #include <chrono>
 #include "getprocessid.h"
+#include "offsets.h"

@@ -129,10 +129,15 @@
   <ItemGroup>
     <ClCompile Include="ac_cheat.cpp" />
     <ClCompile Include="getprocessid.cpp" />
+    <ClCompile Include="hacks.cpp" />
+    <ClCompile Include="structs.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="getprocessid.h" />
+    <ClInclude Include="hacks.h" />
     <ClInclude Include="includes.h" />
+    <ClInclude Include="offsets.h" />
+    <ClInclude Include="structs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

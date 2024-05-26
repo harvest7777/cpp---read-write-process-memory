@@ -1,0 +1,6 @@
+#pragma once
+#define LOCAL_PLAYER_OFFSET 0x17E0A8
+#define HEALTH_OFFSET 0xEC
+#define X_POS_OFFSET 0x28
+#define Y_POS_OFFSET 0x30
+#define Z_POS_OFFSET 0x34

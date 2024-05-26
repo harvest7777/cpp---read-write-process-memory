@@ -1,5 +1,8 @@
 ﻿  ac_cheat.cpp
-C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(26,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
-C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(32,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
-C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(40,42): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(28,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(34,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(35,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(36,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(37,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(46,42): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPVOID' of greater size
   ac_cheat.vcxproj -> C:\Users\Ryan\Desktop\re\ac_cheat\x64\Debug\ac_cheat.exe
