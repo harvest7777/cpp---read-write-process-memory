@@ -4,5 +4,9 @@
 #include <TlHelp32.h>
 #include <thread>
 #include <chrono>
+#include <cstdint>
 #include "getprocessid.h"
 #include "offsets.h"
+#include "entity.h"
+#include <vector>
+#include <unordered_map>

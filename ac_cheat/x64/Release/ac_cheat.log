@@ -1,0 +1,24 @@
+﻿  ac_cheat.cpp
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(23,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(27,38): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\ac_cheat.cpp(33,42): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+  getprocessid.cpp
+C:\Users\Ryan\Desktop\re\ac_cheat\getprocessid.cpp(54,24): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+C:\Users\Ryan\Desktop\re\ac_cheat\getprocessid.cpp(54,24): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+  hacks.cpp
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(4,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(10,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(11,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(12,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(19,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(20,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(21,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(33,36): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(44,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+C:\Users\Ryan\Desktop\re\ac_cheat\hacks.cpp(51,35): warning C4312: '<function-style-cast>': conversion from 'DWORD' to 'LPCVOID' of greater size
+  structs.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 132 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ac_cheat.vcxproj -> C:\Users\Ryan\Desktop\re\ac_cheat\x64\Release\ac_cheat.exe
